@@ -1,0 +1,5 @@
+﻿  ImgViewBS.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  Project2.vcxproj -> C:\Users\BrianJamesAlbertEd\Documents\Visual Studio 2015\Projects\Project2\\bin\ImViewBS.exe
+  Project2.vcxproj -> C:\Users\BrianJamesAlbertEd\Documents\Visual Studio 2015\Projects\Project2\\bin\ImViewBS.pdb (Partial PDB)
